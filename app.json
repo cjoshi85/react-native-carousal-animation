@@ -1,0 +1,12 @@
+{
+  "name": "react-native-carousal-with-animation",
+  "displayName": "react-native-carousal-with-animation",
+  "expo": {
+    "name": "react-native-carousal-with-animation",
+    "slug": "react-native-carousal-with-animation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
